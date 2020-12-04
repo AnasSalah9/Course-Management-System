@@ -1,2 +1,2 @@
 # Course-Management-System
-course management system in java
+A system designed to facilitate learning process between instructors and students
